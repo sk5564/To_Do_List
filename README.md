@@ -1,1 +1,1 @@
-Click [here](https://kishankr1777.github.io/todo-app) to view the project.
+Click [here](https://sk5564.github.io/todo-app) to view the project.
